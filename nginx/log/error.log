@@ -1,0 +1,6 @@
+2020/04/18 16:22:27 [error] 6#6: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "0.0.0.0:8090", referrer: "http://0.0.0.0:8090/"
+2020/04/18 16:22:49 [error] 6#6: *1 open() "/usr/share/nginx/html/test.html" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /test.html HTTP/1.1", host: "0.0.0.0:8090"
+2020/04/18 16:23:48 [error] 6#6: *1 open() "/usr/share/nginx/html/test.html" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /test.html HTTP/1.1", host: "0.0.0.0:8090"
+2020/04/18 16:23:48 [error] 6#6: *1 open() "/usr/share/nginx/html/test.html" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /test.html HTTP/1.1", host: "0.0.0.0:8090"
+2020/04/18 16:23:48 [error] 6#6: *1 open() "/usr/share/nginx/html/test.html" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /test.html HTTP/1.1", host: "0.0.0.0:8090"
+2020/04/18 16:23:49 [error] 6#6: *1 open() "/usr/share/nginx/html/test.html" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /test.html HTTP/1.1", host: "0.0.0.0:8090"
